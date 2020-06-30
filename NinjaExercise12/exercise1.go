@@ -1,7 +1,7 @@
 package main
 
 import (
-	"dog"
+	dog "GoClass/NinjaExercise12/dog_Documentation"
 	"fmt"
 )
 
